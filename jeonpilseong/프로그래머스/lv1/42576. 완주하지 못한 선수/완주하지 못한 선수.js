@@ -18,3 +18,5 @@ function solution(participant, completion) {
         if(dict[i] == 1) return i;
     }
 }
+
+// 참고하면 좋은 풀이 : https://www.youtube.com/watch?v=_2yD46UxSso
